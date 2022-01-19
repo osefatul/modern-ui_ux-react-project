@@ -1,0 +1,49 @@
+.navbar{
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 2rem 6rem;
+}
+
+.navbarLinks{
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.navbarLinksLogo{
+  margin-right: 2rem;
+}
+
+.navbarLinksLogo > img{
+width: 62.56px;
+height: 16.02px;
+}
+
+.navbarLinksContainer{
+  display: flex;
+  flex-direction: row;
+}
+
+.navbarSign{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+
+.navbarLinksContainer > p,
+.navbarSign > p,
+.navbarMenuContainer > p {
+  color: #fff;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: capitalize;
+
+  margin: 0 1rem;
+  cursor: pointer;
+}
