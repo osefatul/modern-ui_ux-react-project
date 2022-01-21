@@ -121,7 +121,7 @@ display: flex;
 }
 
 
-@media screen and (max-width: 650px){
+@media screen and (max-width: 770px){
   .header h1 {
     font-size: 48px;
     line-height: 55px
@@ -132,13 +132,35 @@ display: flex;
     line-height:22px
   }
   
-
-  
   .headerContentPeople {
     flex-direction: column;
   }
 
   .headerContentPeople p {
     margin: 0;
+  }
+
+  .headerContentInput input, .headerContentInput button {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (max-width: 490px) {
+
+  .header h1 {
+    font-size: 36px;
+    line-height: 45px
+  }
+
+  .headerContent p {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .headerContentInput input, .headerContentInput button {
+    font-size: 12px;
+    line-height: 16px;
   }
 }
