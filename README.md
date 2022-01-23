@@ -1,5 +1,6 @@
 # React UI/UX Modern Website
 
+This is a full responsive modern UI/UX website
 Website to use for [gradient generator](https://angrytools.com/gradient/)
 Website used for [animation](https://animista.net/)
 
