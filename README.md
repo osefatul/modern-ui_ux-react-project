@@ -1,6 +1,8 @@
 # React UI/UX Modern Website
 
 This is a full responsive modern UI/UX website
+Want to visit the website? just [Click here](https://friendly-minsky-c3017d.netlify.app/)
+
 Website to use for [gradient generator](https://angrytools.com/gradient/)
 Website used for [animation](https://animista.net/)
 
