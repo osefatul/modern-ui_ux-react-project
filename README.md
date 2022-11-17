@@ -1,10 +1,16 @@
 # React UI/UX Modern Website
 
-This is a full responsive modern UI/UX website
+### Intro
+This is a full responsive modern UI/UX website developed in react. a practical example of how we should approach developing an application given a Figma design.
+
+
 Want to visit the website? just [Click here](https://friendly-minsky-c3017d.netlify.app/)
 
 Website to use for [gradient generator](https://angrytools.com/gradient/)
 Website used for [animation](https://animista.net/)
+
+
+
 
 ### Navabar
 
