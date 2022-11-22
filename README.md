@@ -3,6 +3,12 @@
 ### Intro
 This is a full responsive modern UI/UX website developed in react. a practical example of how we should approach developing an application given a Figma design.
 
+### Techs
+- React
+- CSS
+- HTML
+
+
 
 Want to visit the website? just [Click here](https://friendly-minsky-c3017d.netlify.app/)
 
